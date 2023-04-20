@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ffb06cc5f94b5cb44a09da8ad33467f9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Raven Song
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 132528d763224bf4fbbcc1b63a1168dc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

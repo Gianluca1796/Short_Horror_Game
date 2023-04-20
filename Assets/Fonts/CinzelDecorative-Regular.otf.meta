@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0a98ccf391de6d945a99383b0cbf883c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cinzel Decorative
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a177ba57dde47f54cad270e08eeabe24, type: 3}
+  - {fileID: 12800000, guid: 2491573e03e69a444a4a2c537e126295, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
